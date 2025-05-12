@@ -23,6 +23,13 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(penisdushilin
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        vector.h
+        vector.cpp
+        vector.cpp
+        vector.cpp
+        vector.cpp
+        smartptr.h
+        smartptr.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET penisdushilin APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

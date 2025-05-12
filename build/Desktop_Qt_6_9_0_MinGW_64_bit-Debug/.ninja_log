@@ -1,9 +1,9 @@
 # ninja log v6
 8	511	7687766304090569	penisdushilin_autogen/timestamp	589412eaa073be1
 8	511	7687766304090569	penisdushilin_autogen/mocs_compilation.cpp	589412eaa073be1
-8	511	7687766304090569	C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/penisdushilin_autogen/timestamp	589412eaa073be1
-8	511	7687766304090569	C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/penisdushilin_autogen/mocs_compilation.cpp	589412eaa073be1
 516	2334	7687766304566359	CMakeFiles/penisdushilin.dir/penisdushilin_autogen/mocs_compilation.cpp.obj	9fab66d62af1fb94
-517	2380	7687766304576677	CMakeFiles/penisdushilin.dir/main.cpp.obj	95234db76c3fb596
+8	511	7687766304090569	C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/penisdushilin_autogen/timestamp	589412eaa073be1
 518	2435	7687766304587018	CMakeFiles/penisdushilin.dir/mainwindow.cpp.obj	e5eea2513248bc10
+8	511	7687766304090569	C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/penisdushilin_autogen/mocs_compilation.cpp	589412eaa073be1
+517	2380	7687766304576677	CMakeFiles/penisdushilin.dir/main.cpp.obj	95234db76c3fb596
 2435	2622	7687766323745799	penisdushilin.exe	64fb2fbf38cc5991
