@@ -373,6 +373,10 @@ C:/Users/user/Desktop/penisdushilin/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/penisdushilin_autogen/moc_predefs.h
  mdp:C:/Users/user/Desktop/penisdushilin/mainwindow.h
+ mdp:C:/Users/user/Desktop/penisdushilin/smartptr.h
+ mdp:C:/Users/user/Desktop/penisdushilin/vector.h
+C:/Users/user/Desktop/penisdushilin/smartptr.h
 C:/Users/user/Desktop/penisdushilin/main.cpp
 C:/Users/user/Desktop/penisdushilin/mainwindow.cpp
- uic:./ui_mainwindow.h
+C:/Users/user/Desktop/penisdushilin/vector.h
+C:/Users/user/Desktop/penisdushilin/vector.cpp

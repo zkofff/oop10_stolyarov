@@ -29,7 +29,6 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         vector.cpp
         vector.cpp
         smartptr.h
-        smartptr.cpp
         vector.h
         vector.cpp
     )

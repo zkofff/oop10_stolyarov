@@ -338,6 +338,12 @@
 			null
 		],
 		[
+			"C:/Users/user/Desktop/penisdushilin/smartptr.h",
+			"MU",
+			"EWIEGA46WW/moc_smartptr.cpp",
+			null
+		],
+		[
 			"C:/Users/user/Desktop/penisdushilin/vector.h",
 			"MU",
 			"EWIEGA46WW/moc_vector.cpp",
@@ -416,7 +422,8 @@
 	"SOURCES" : 
 	[
 		[ "C:/Users/user/Desktop/penisdushilin/main.cpp", "MU", null ],
-		[ "C:/Users/user/Desktop/penisdushilin/mainwindow.cpp", "MU", null ]
+		[ "C:/Users/user/Desktop/penisdushilin/mainwindow.cpp", "MU", null ],
+		[ "C:/Users/user/Desktop/penisdushilin/vector.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
