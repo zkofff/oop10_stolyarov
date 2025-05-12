@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6a3ec514985151916d9f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "penisdushilin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "penisdushilin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-penisdushilin-Debug-f0365eb2c4634fa79bb1.json",
+					"name" : "penisdushilin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "penisdushilin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-penisdushilin_autogen-Debug-d86395098497da8246b7.json",
+					"name" : "penisdushilin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "penisdushilin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-penisdushilin_autogen_timestamp_deps-Debug-2771db4153426093a488.json",
+					"name" : "penisdushilin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/penisdushilin/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/penisdushilin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
